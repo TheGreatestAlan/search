@@ -1,0 +1,15 @@
+nguyen\alan\model\SearchResultDTO.class
+nguyen\alan\model\Client.class
+nguyen\alan\factories\PersistorFactory.class
+nguyen\alan\interfaces\IQueryService.class
+nguyen\alan\rest\controller\SearchController.class
+nguyen\alan\factories\QueryServiceFactory.class
+nguyen\alan\rest\controller\FindController.class
+nguyen\alan\SearchPersistor.class
+nguyen\alan\model\SearchDTO$Filters.class
+nguyen\alan\model\SearchDTO.class
+nguyen\alan\interfaces\ISearchPersistor.class
+nguyen\alan\model\Search.class
+nguyen\alan\QueryService.class
+nguyen\alan\App.class
+nguyen\alan\exceptions\MissingIdException.class
